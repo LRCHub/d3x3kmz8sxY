@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "バカになって",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-02-17T20:26:50.086723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バカになって",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_バカになって_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バカになって",
+      "artist": "Three",
+      "has_synced": true,
+      "path": "select/02_バカになって_Three.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バカになって",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_バカになって_すりぃ.txt"
+    }
+  ]
+}
